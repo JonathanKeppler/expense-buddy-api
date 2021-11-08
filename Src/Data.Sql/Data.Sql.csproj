@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Features\Expenses\" />
+    <Folder Include="Features\ExpenseTypes\" />
+    <Folder Include="Features\Users\" />
+    <Folder Include="Features\PaymentTypes\" />
+  </ItemGroup>
+
+</Project>
